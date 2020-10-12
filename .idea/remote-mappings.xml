@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@175.25.50.116:11692/root/anaconda3/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/code" remote-root="/home/hulianyue/nd/code" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
